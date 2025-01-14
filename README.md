@@ -57,6 +57,6 @@ Your Consent
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-Contact Us
+# Contact Us
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at bibusapps@gamil.com.
