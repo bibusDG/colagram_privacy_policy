@@ -93,4 +93,4 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 
 # Support contact
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at bibusapps@gamil.com.
+If you have any questions regarding our app or would like to ask additional question according its properties, possibilities or other, please contact the us via email at bibusapps@gamil.com.
