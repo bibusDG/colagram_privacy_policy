@@ -94,3 +94,16 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 # Support contact
 
 If you have any questions regarding our app or would like to ask additional question according its properties, possibilities or other, please contact the us via email at bibusapps@gamil.com.
+
+How to add new sticker to my gallery?
+
+You have two options to add, create new sticker. 
+1. Go to "My Stickers" page from main page and press "+" icon on bottom. To add sticker, previously, you have to copy image or sticker to clipboard. 
+When copy is done just press icon and sticker/image should appear in your list. To delete sticker from list press "X" icon.
+2. When you are inside creator, press icon in bottom-right corner called "Stickers", bottom sheet window should appear with black icon. Press black icon and sticker/image should appear in your list. Like before, first copy image to clipboard. To delete sticker from list, long press on chosen sticker.
+
+Play with layers.
+
+When you have planty images on working area there is a possibility to change layer priority and move one picture in front of another (or opposite way). To do so, 
+press icon with 3 horizontal bars which is situated on left bottom part of working area. You should see your stickers inside list. If you want to change picture position just press and hold picture for longer time and then move free to another position in the list.
+
